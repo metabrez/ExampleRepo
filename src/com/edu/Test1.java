@@ -18,6 +18,7 @@ public class Test1 {
 		for (Map.Entry<String, Integer> entry : items.entrySet()) {
 
 			System.out.println("Item : " + entry.getKey() + " count : " + entry.getValue());
+			System.out.println("Welcome to the world");
 		}
 
 		/*
