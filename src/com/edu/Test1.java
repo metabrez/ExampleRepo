@@ -19,6 +19,11 @@ public class Test1 {
 
 			System.out.println("Item : " + entry.getKey() + " count : " + entry.getValue());
 			System.out.println("Welcome to the world");
+			
+			System.out.println("Welcome to the test2");
+			System.out.println("Welcome to test3");
+			System.out.println("Welcome to test4");
+			System.out.println("Welcome to test5");
 		}
 
 		/*
